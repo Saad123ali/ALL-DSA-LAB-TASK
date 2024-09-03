@@ -13,6 +13,7 @@ This repository contains a comprehensive collection of Data Structures and Algor
 ## 🚀 Getting Started
 
 To get started with the repository, follow these steps.
+<br>
 🤝 Contributing
 We welcome contributions from the community! If you have improvements or new lab tasks to share, please follow these steps:
 
