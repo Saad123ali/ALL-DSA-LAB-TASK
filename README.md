@@ -9,6 +9,7 @@ This repository contains a comprehensive collection of Data Structures and Algor
 - **Dynamic Programming**: Classic problems solved using dynamic programming techniques.
 - **Recursion & Backtracking**: Solutions to problems using recursive approaches and backtracking algorithms.
 - **Greedy Algorithms**: Problem-solving examples using greedy methods.
+- **Daily Quizzes with Solutions**: Regularly updated quizzes with solutions to test and reinforce your understanding of DSA concepts.
 
 ## 🚀 Getting Started
 
