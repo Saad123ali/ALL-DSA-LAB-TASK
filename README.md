@@ -27,7 +27,7 @@ We welcome contributions from the community! If you have improvements or new lab
 3. **Add commit with new feature**:
    ```bash  
    git commit -m "Add new feature or fix"
-4.**Push the Repo to merge**:
+4. **Push the Repo to merge**:
    ```bash
    git push origin feature-branch-name
 
