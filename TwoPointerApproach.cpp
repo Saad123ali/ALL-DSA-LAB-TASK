@@ -1,3 +1,8 @@
+// Two-pointer Approach:
+
+// Time complexity: O(n log n) if sorting is needed; otherwise, O(n).
+// Space complexity: O(1) as only two pointers are used.
+
 #include <iostream>
 #include <algorithm> // For sort()
 using namespace std;
@@ -39,3 +44,10 @@ int main()
     twoPointerApproach(arr, n, target);
     return 0;
 }
+
+//Output below
+
+// Two-pointer Approach: 
+// Pair found: (2, 7)    
+// Pair found: (3, 6)    
+// Pair found: (4, 5) 

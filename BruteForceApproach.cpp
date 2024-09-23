@@ -1,3 +1,8 @@
+// Brute Force Approach:
+
+// Time complexity: O(n²) because we are checking all possible pairs.
+// Space complexity: O(1), as no extra space is used.
+
 #include <iostream>
 using namespace std;
 
@@ -25,3 +30,11 @@ int main()
     bruteForceApproach(arr, n, target);
     return 0;
 }
+
+
+//Output below 
+
+// Brute Force Approach: 
+// Pair found: (2, 7)
+// Pair found: (3, 6)
+// Pair found: (4, 5)
